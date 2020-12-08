@@ -23,7 +23,7 @@
     "nodemon": "^1.17.5",
     "pg": "^7.4.3",
     "routing-controllers": "^0.7.7",
-    "typeorm": "^0.2.7",
+    "typeorm": "^0.2.15",
     "typescript": "^2.9.2"
   },
   "devDependencies": {
